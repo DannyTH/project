@@ -1,0 +1,34 @@
+body {
+  background-color: black;
+  float: left;
+  margin-right: 350px;
+}
+h1.introduction {
+  font-size: 350%;
+  font-style:italic;
+  text-align: center;
+  color: red;
+}
+h2.introduction {
+  color: blue;
+  font-style: oblique;
+}
+p.introduction {
+  font-weight: bold;
+  color: white;
+  float: left;
+}
+h3.introduction {
+  font-style: oblique;
+  color: blue;
+}
+h4.introduction {
+  font-style: oblique;
+  color: blue;
+}
+.ttif {
+  float: right;
+}
+.pdf {
+  color: green;
+}
