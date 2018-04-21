@@ -1,11 +1,11 @@
 body {
   background-color: black;
   float: left;
-  margin-right: 550px;
+  margin-right: 250px;
   background-image: url(https://www.consciouslifestylemag.com/wp-content/uploads/2015/11/finding-your-life-purpose-journey-universe.jpg);
 }
 h1.introduction {
-  font-size: 350%;
+  font-size: 550%;
   font-style:italic;
   text-align: center;
   color: red;
