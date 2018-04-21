@@ -24,10 +24,12 @@ p.introduction {
 h3.introduction {
   font-style: oblique;
   color: blue;
+  font-size: 250%;
 }
 h4.introduction {
   font-style: oblique;
   color: blue;
+  font-size: 250%;
 }
 .ttif {
   float: right;
